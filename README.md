@@ -7,7 +7,7 @@
 
 - I’m currently working on **OSCP Notes** - will make it public when it's a little further along!
 
-- I’m currently learning **to be a better cybersecurity professional**
+- I’m currently learning **lots of different things, but mostly how to make IR more cost effective. Also need to get better at the AI**
 
 - How to reach me **@ttc2mi on twitter**
 
